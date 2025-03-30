@@ -22,7 +22,7 @@
 # }
 
 # Replace with your Coder deployment URL
-host: https://coder.alaudatech.net
+host: https://dbs-coder.alauda.cn
 
 # Specify the Coder template for this repository
 template: quick-start
